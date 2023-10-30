@@ -4,7 +4,7 @@ public class Main {
         for (int i = 0; i <= 30; i++) {
             System.out.print(i + " ");
         }
-        System.out.println("");
+        System.out.println();
 
         for (int j = 30; j >= 0; j--) {
             System.out.print(j + " ");
